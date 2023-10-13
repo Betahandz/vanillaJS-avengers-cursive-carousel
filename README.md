@@ -26,8 +26,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Dee-Maria/vanillaJS-avengers-cursive-carousel)
+- Live Site URL: [Live Site hosted by Github pages](https://dee-maria.github.io/vanillaJS-avengers-cursive-carousel/)
 
 ## My process
 
